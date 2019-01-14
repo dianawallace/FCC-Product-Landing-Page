@@ -24,4 +24,12 @@ h1 {
   }
 }
 
+#page-wrapper {
+  position: relative;
+}
+
+li {
+  list-style: none;
+  color: #3D2105;
+}
 
