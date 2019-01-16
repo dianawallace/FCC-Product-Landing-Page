@@ -33,3 +33,14 @@ li {
   color: #3D2105;
 }
 
+a {
+  color: #392201; 
+ }
+ 
+ a:hover {
+  color: #9E6731;
+  text-decoration: none;
+}
+ 
+ 
+ 
