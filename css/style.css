@@ -42,5 +42,29 @@ a {
   text-decoration: none;
 }
  
- 
+span {
+  color: #3D2105;
+} 
+
+  /***Global Classes Styling***/
+  
+.order-now {
+  margin: 0;  
+  padding: 0;
+}
+
+
+.grid {
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
  
