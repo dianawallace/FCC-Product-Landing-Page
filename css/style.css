@@ -73,6 +73,24 @@ span {
   border: 3px brown solid;
 }
 
+ /***Navigation***/
+
+header {
+  position: fixed;
+  top: -5px;
+  left: -1px;
+  width: 100%;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #FFD6AE;
+  
+  @media (max-width: 600px) {
+    flex-wrap: wrap;
+  }
+}
+
 
 
 
