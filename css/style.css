@@ -127,6 +127,16 @@ header {
   }
 }
 
+ul {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+  @media (max-width: 650px) {
+    flex-direction: column;
+    margin-bottom: 25px;
+  }
+}
+
 
 
 
