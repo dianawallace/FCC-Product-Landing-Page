@@ -178,6 +178,21 @@ h2 {
   }
 }
 
+#features {
+  margin-top: 30px;
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3D2105;
+    height: 50px;
+    width: 10vw;
+    @media (max-width: 550px) {
+      display: none;
+    }
+  }
+}
+
 
 
 
