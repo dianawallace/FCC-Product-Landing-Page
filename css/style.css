@@ -195,7 +195,7 @@ h2 {
   }
 }
 
-.description {
+.desc {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -212,6 +212,18 @@ h2 {
   margin-top: 0;
 }
 
+#recipe {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: center; 
+}
+
+iframe {
+  max-width: 560px;
+  width: 100%;
+    
+  }
 
 
 
