@@ -225,7 +225,21 @@ iframe {
     
   }
 
+#store {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; 
+}
+  
+img {
+  height: 180px; 
+  width: 210px;
+  padding-top: 10px;
+}
+    
 
+     
 
 
 
