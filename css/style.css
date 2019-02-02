@@ -1,3 +1,4 @@
+
   /***Global Element Styling***/
 
 @import 'https://fonts.googleapis.com/css?family=Lato:400,700';
@@ -182,6 +183,7 @@ h2 {
 
 #features {
   margin-top: 30px;
+}
   .icon {
     display: flex;
     align-items: center;
@@ -189,11 +191,14 @@ h2 {
     color: #3D2105;
     height: 50px;
     width: 10vw;
+  }
+    
+  
     @media (max-width: 550px) {
       display: none;
-    }
-  }
-}
+    
+  
+
 
 .desc {
   display: flex;
@@ -201,15 +206,16 @@ h2 {
   justify-content: center;
   height: 150px;
   width: 80vw;
+}
   @media (max-width: 550px) {
     width: 100%;
     text-align: center;
     padding: 0;
     height: 150px;
   }
- }
-@media (max-width: 650px) {
-  margin-top: 0;
+ 
+  @media (max-width: 650px) {
+    margin-top: 0;
 }
 
 #recipe {
@@ -257,7 +263,7 @@ img {
       width: 100%;
       font-weight: 900;
     }
-    h2 {
+    .pricing h2 {
       font-size: 16px;
       height: 5px;
     }
@@ -279,7 +285,11 @@ img {
   @media (max-width: 800px) {
     flex-direction: column;
   
-    #cake, #tart, #pie { max-width: 300px; width: 100%; margin: 0, auto; margin-bottom: 10px; }    
+    #cake, #tart, #pie { 
+      max-width: 300px; 
+      width: 100%; 
+      margin: 0, auto; 
+      margin-bottom: 10px;    
   }
 
 
