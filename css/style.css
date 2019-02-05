@@ -196,7 +196,7 @@ h2 {
   
     @media (max-width: 550px) {
       display: none;
-    
+    }  
   
 
 
@@ -293,7 +293,11 @@ img {
   }
 
 
-
+  footer {
+  margin-top: 50px;
+  padding: 10px;
+  width: 100%; 
+  }
 
 
  
