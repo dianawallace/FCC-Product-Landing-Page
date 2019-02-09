@@ -8,7 +8,7 @@ This is the third of the Responsive Web Design Projects in Free Code Camp. The o
 I used HTML5, CSS3, SCSS, and Bootstrap 4.
 
 You can find the list of requirements below as well as further information on this project [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage). 
-You can view my completed project on github [here](https://fcc-product-landing-page-dianawallace.c9users.io/index.html/) and codepen [here](https://codepen.io/dianawallacedeveloper/full/WYombp).
+You can view my completed project on github [here](https://dianawallace.github.io/FCC-Product-Landing-Page/) and codepen [here](https://codepen.io/dianawallacedeveloper/full/WYombp).
 
 
 
